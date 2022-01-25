@@ -4,7 +4,7 @@
 
 [简体中文](./README.CN.md) | [English](./README.md) | [قازاق](./README.KZ.md)
 
-**hapin-arabic** is an input schema for kazakh language input based on [Rime] Input Method Editor.
+**hapin-arabic** is an input schema for kazakh language input based on [Rime](https://github.com/rime) Input Method Editor.
 
 ## About Hapin
 
