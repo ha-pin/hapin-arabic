@@ -1,6 +1,6 @@
 ---
 name: hapin_ar.extend
-version: "0.1"
+version: "0.2"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -68,3 +68,46 @@ use_preset_vocabulary: false
 ايبىن	a i b e n
 ايبىنۋ	a i b e n w
 ايداۋ	a i d a w
+ايدار	a i d a r
+ايداعار	a i d a gh a r
+ايدىن	a i d e n
+ايدىنۋ	a i d e n w
+ايلا	a i l a
+ايمالاۋ	a i m a l a w
+اينا	a i n a
+اينالۋ	a i n a l w
+اينالا	a i n a l a
+اينالسوق	a i n a l s o q
+اينالسوقتاۋ	a i n a l s o q t a w
+اينۋ	a i n w
+اينى	a i n e
+اينىماۋ	a i n e m a w
+ايران	a i r a n
+ايروپلان	a i r o p l a n
+ايرىق	a i r e q
+ايرىقشا	a i r e q sh a
+ايت	a i t
+ايتۋلى	a i t w l e
+ايۋ	a i w
+ايۋان	a i w a n
+ايشىق	a i sh e q
+ايىل	a i e l
+ايىپ	a i e p
+ايىر	a i e r
+ايىرۋ	a i e r w
+ايىرباس	a i e r b a s
+ايىرىق	a i e r e q
+ايىعۋ	a i e gh w
+ايقالاۋ	a i q a l a w
+ايقاس	a i q a s
+ايقىن	a i q e n
+ايقىش	a i q e sh
+ايقۇلاقتاۋ	a i q u l a q t a w
+ايعايلاۋ	a i gh a i l a w
+ايعاق	a i gh a q
+ايعىز	a i gh e z
+ايعىر	a i gh e r
+اكتىپ	a k t e p
+الا	a l a
+الابۇرتۋ	a l a b u r t w
+# p15 end

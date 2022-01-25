@@ -60,8 +60,10 @@ Hapin Alphabets are based on Pinyin, IPA, etc...
 | ,            | ،                |
 | ?            | ؟                |
 | ;            | ؛                |
+| -            | ۔                |
+| .            | ٜ                |
 
-- Symbols **Only** for Cyrillic Alphabets (Experiment)
+<!-- - Symbols **Only** for Cyrillic Alphabets (Experiment)
 
 | Hapin Scheme | Arabic Alphabets | Cyrillic Alphabets | Latin (Experiment) |
 | ------------ | ---------------- | ------------------ | ------------------ |
@@ -73,6 +75,6 @@ Hapin Alphabets are based on Pinyin, IPA, etc...
 | --           | --               | Ь ь                |                    |
 | ee           | --               | Э э                |                    |
 | iuw          | --               | Ю ю                |                    |
-| ia           | --               | Я я                |                    |
+| ia           | --               | Я я                |                    | -->
 
 ## How To Use
