@@ -1,5 +1,7 @@
 # hapin-arabic
 
+> Under Developing
+
 [Rime](https://github.com/rime) ***Hapin*** Input Schema
 
 [简体中文](./README.CN.md) | [English](./README.md) | [قازاق](./README.KZ.md)

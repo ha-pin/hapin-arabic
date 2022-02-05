@@ -1,6 +1,6 @@
 ---
 name: hapin_ar.extend
-version: "0.2"
+version: "1.0"
 sort: by_weight
 use_preset_vocabulary: false
 ...
