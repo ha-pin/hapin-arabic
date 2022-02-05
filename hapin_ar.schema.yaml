@@ -13,7 +13,7 @@ schema:
 switches:
   - name: ascii_mode
     reset: 0
-    states: [ Kazakh, English ]
+    states: [ حاپين, English ]
 
 engine:
   processors:
@@ -40,12 +40,11 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: abcdefghijklmnopqrstuvwzx?,;-. # y 暂且没有用到
+  alphabet: abcdefghijklmnopqrstuvwzxy?,;-.
   delimiter: " '"
   algebra:
-    - 'abbrev/^([aiuo]e).+$/$1/'
+    - 'xlit/x([aeou])/$1/'
     - 'abbrev/^([ghsc]h).+$/$1/'
-    - 'abbrev/^(iu).+$/$1/'
     - 'abbrev/^(ng).+$/$1/'
 
 translator:

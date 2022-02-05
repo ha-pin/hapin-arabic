@@ -11,12 +11,12 @@ import_tables:
 ...
 
 ا	a
-ٴا	ae
+ٴا	xa
 ب	b
 د	d
 ى	e
-ە	ie
-ٴى	ue
+ە	ye
+ٴى	xe
 ف	f
 گ	g
 ع	gh
@@ -30,14 +30,15 @@ import_tables:
 ن	n
 ڭ	ng
 و	o
-ٶ	oe
+ٶ	xo
 پ	p
 ق	q
 ر	r
 س	s
 ت	t
 ۇ	u
-ٷ	iu
+ٷ	xu
+ٷ	yu
 ۆ	v
 ۋ	w
 ز	z
