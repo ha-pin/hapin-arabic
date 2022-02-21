@@ -43,7 +43,7 @@ speller:
   alphabet: abcdefghijklmnopqrstuvwzxy?,;-.
   delimiter: " '"
   algebra:
-    - 'xlit/x([aeou])/$1/'
+    - 'abbrev/x([aeou])/$1/'
     - 'abbrev/^([ghsc]h).+$/$1/'
     - 'abbrev/^(ng).+$/$1/'
 
