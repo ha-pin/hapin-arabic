@@ -50,7 +50,7 @@ Hapin Alphabets are based on Pinyin, IPA, etc...
 | w            | ۋ                | У у                | Ý ý                |
 | z            | ز                | З з                | Z z                |
 | sh           | ش                | Ш ш                | Sh sh              |
-| ch           | چ                | Ц ц                | Ch ch              |
+| ch           | چ                | Ч ч               | Ch ch              |
 
 - Symbols **Only** for Arabic Alphabets
 
@@ -69,7 +69,7 @@ Hapin Alphabets are based on Pinyin, IPA, etc...
 | ------------ | ---------------- | ------------------ | ------------------ |
 | io           | --               | Ё ё                |                    |
 | ii           | --               | И и                |                    |
-| che          | --               | Ч ч                |                    |
+| ts           | --               | Ц ц                |                    |
 | cdacki       | --               | Щ щ                |                    |
 | --           | --               | Ъ ъ                |                    |
 | --           | --               | Ь ь                |                    |
