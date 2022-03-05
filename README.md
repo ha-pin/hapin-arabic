@@ -38,19 +38,19 @@ Hapin Alphabets are based on Pinyin, IPA, etc...
 | n            | ن                | Н н                | N n                |
 | ng           | ڭ                | Ң ң                | Ń ń                |
 | o            | و                | О о                | O o                |
-| oe           | ٶ                | Ө ө                | Ó ó                |
+| oe           | ٴو               | Ө ө                | Ó ó                |
 | p            | پ                | П п                | P p                |
 | q            | ق                | Қ қ                | Q q                |
 | r            | ر                | Р р                | R r                |
 | s            | س                | С с                | S s                |
 | t            | ت                | Т т                | T t                |
 | u            | ۇ                | Ұ ұ                | U u                |
-| iu           | ٷ                | Ү ү                | Ú ú                |
+| iu           | ٴۇ               | Ү ү                | Ú ú                |
 | v            | ۆ                | В в                | V v                |
 | w            | ۋ                | У у                | Ý ý                |
 | z            | ز                | З з                | Z z                |
 | sh           | ش                | Ш ш                | Sh sh              |
-| ch           | چ                | Ч ч               | Ch ch              |
+| ch           | چ                | Ч ч                | Ch ch              |
 
 - Symbols **Only** for Arabic Alphabets
 
@@ -62,19 +62,5 @@ Hapin Alphabets are based on Pinyin, IPA, etc...
 | ;            | ؛                |
 | -            | ۔                |
 | .            | ٜ                |
-
-<!-- - Symbols **Only** for Cyrillic Alphabets (Experiment)
-
-| Hapin Scheme | Arabic Alphabets | Cyrillic Alphabets | Latin (Experiment) |
-| ------------ | ---------------- | ------------------ | ------------------ |
-| io           | --               | Ё ё                |                    |
-| ii           | --               | И и                |                    |
-| ts           | --               | Ц ц                |                    |
-| cdacki       | --               | Щ щ                |                    |
-| --           | --               | Ъ ъ                |                    |
-| --           | --               | Ь ь                |                    |
-| ee           | --               | Э э                |                    |
-| iuw          | --               | Ю ю                |                    |
-| ia           | --               | Я я                |                    | -->
 
 ## How To Use
