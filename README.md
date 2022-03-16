@@ -1,6 +1,6 @@
-# hapin-arabic
+# hapin-arabic v1.x
 
-> Under Developing
+> If you want to use 0.x version, please switch to branch [0.x](https://github.com/ha-pin/hapin-arabic/tree/0.x)
 
 [Rime](https://github.com/rime) ***Hapin*** Input Schema
 

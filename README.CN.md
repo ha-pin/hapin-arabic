@@ -1,12 +1,12 @@
-# hapin-arabic
+# hapin-arabic v1.x
+
+> 如果你想使用 0.x 版本, 请切换到分支 [0.x](https://github.com/ha-pin/hapin-arabic/tree/0.x)
 
 [中州韵](https://github.com/rime) ***哈拼*** 输入方案
 
 [简体中文](./README.CN.md) | [English](./README.md) | [قازاق](./README.KZ.md)
 
 **hapin-arabic** 是一个基于中州韵输入法的老文字输入方案。
-
-> 此版本正在开发中
 
 ## 关于哈拼
 
