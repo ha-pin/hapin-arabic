@@ -1,4 +1,6 @@
-# hapin-arabic
+# hapin-arabic 0.x
+
+> **deprecated** The current branch is no longer maintained!
 
 [Rime](https://github.com/rime) ***Hapin*** Input Schema
 

@@ -1,4 +1,6 @@
-# hapin-arabic
+# hapin-arabic 0.x
+
+> **deprecated** 当前版本已不再维护
 
 [中州韵](https://github.com/rime) ***哈拼*** 输入方案
 
