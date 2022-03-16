@@ -44,21 +44,20 @@ speller:
   initials: abcdefghijklmnopqrstuvwzxy
   delimiter: " '"
   algebra:
-    # BUG 强制转化 xa xe xo xu -> a e o u
-    - xform/^x([aeou])$/$1/
+    #  强制转化 xa xe xo xu -> a e o u
     # 建议转化 gh hh sh ch -> g h s c 智能提示
     - abbrev/^([ghsc])h.+$/$1/
-    - derive/[ghsc]h$/$1/
+    - derive/([ghsc])h$/$1/
     # 建议转化 h hh q -> h 智能提示
     - derive/q$/h/
     - derive/hh$/h/
     # 建议转化 ng -> n 智能提示
     - abbrev/^(n)g.+$/$1/
     - derive/ng$/n/
-    # BUG 支持转化 yu -> xu
-    - xform/yu/u/
+    # 转化 yu -> u
     # 移除尾部为 x y
-    - erase/^.*([x|y])$/
+    # BUG 多 x 需要被修复
+    - erase/^[^x]+([x|y])$/
 
 translator:
   dictionary: hapin_ar
