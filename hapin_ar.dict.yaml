@@ -8,6 +8,7 @@ sort: by_weight
 use_preset_vocabulary: false
 import_tables:
   - hapin_ar.extend
+  - hapin.emoji
 ...
 
 ا	a
