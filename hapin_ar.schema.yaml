@@ -36,6 +36,7 @@ engine:
     - punct_translator
     - script_translator
     - reverse_lookup_translator
+    - lua_translator@time_translator
   filters:
     - uniquifier
 
