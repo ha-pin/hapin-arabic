@@ -6,9 +6,295 @@ use_preset_vocabulary: false
 ...
 
 # Hapin Emoji
+# 手势
 👋	s a l ye m
 👋	s xa l ye m
 👌	ye
 👍	j a q s e
 👍	b o l a d e
 👏	j a q s e
+😃	h a h a
+🙂	h e h e
+😋	d xa m d e
+🤑	b a i w
+🤥	xo t e r k
+😏	m a s a i r a w
+😒	k xo ng e l s e z
+😴	u i h t a
+💤	u i h t a
+😷	t e m a w
+😠	a sh w
+😓	t ye r
+😩	sh a r sh a w
+🥱	ye s e n e w
+😭	j e l a w
+😢	j e l a w
+😮	t a ng h a l w
+😲	t a ng h a l w
+😨	h o r h w
+😱	h o r h w
+😳	u i a l w
+💩	b o h
+🤖	h u l t ye m e r
+👻	s a i t a n
+💌	h a t
+✉	h a t
+❤	j u r e k
+♥	j u r e k
+💓	j u r e k
+💗	j u r e k
+💛	j u r e k
+💚	j u r e k
+💯	j u z
+# 水果
+🍉	d a r b e z
+🍈	h a w e n
+🍇	u z e m
+🍏	a l m a
+🍎	a l m a
+🍌	b a n a n
+🍓	b u l d e r g ye n
+🍊	m a n d a r i n
+🍋	l i m o n
+🍍	a n a n a s
+🍐	a l m u r t
+🍑	sh a p t o l
+🥭	m a ng g o
+🍒	sh i e
+🍅	h e z a n a h
+🥥	k o k o s
+# 蔬菜
+🥔	k a r t o p
+🥕	s xa b e z
+🍆	b a k l a j a n
+🌽	b o r m i
+🌶	b u r e sh
+🥒	h i a r
+🧅	p i a z
+🍄	s a ng e r a w h u l a h
+🥜	j ye r j a ng gh a gh e
+# 熟食
+🍞	b o l k a
+🥩	ye t
+🧈	s a r e m a i
+🧂	t u z
+🥚	j u m e r t h a
+🍚	k u r e sh
+🍜	k ye s p ye
+🥮	a i k u l sh ye
+🥟	sh xo sh i r ye
+🎂	b a l g u l sh ye
+🍰	b a l g u l sh ye
+🧁	b a l g u l sh ye
+🍫	ch xo k e l a t
+🍬	k a n e t
+🍯	b a l
+# 饮料
+🥛	s u t
+🍺	s e r a
+🍻	a r a h
+🍷	h e z e l a r a h
+☕	ch a i
+# 餐具
+🥢	s a h p e
+🥄	h a l a h
+🥄	h a s e h
+🔪	p e sh a h
+🍴	sh a n sh h e
+# 动物
+🐴	a t
+🐎	a t
+🦄	a t
+🐂	s i e r
+🐄	s i e r
+🐃	s w s i e r
+🐮	s i e r
+🐏	h o sh h a r
+🐑	h o i
+🐐	ye sh k e
+🦌	b u gh e
+🐪	n a r
+🐫	t u i ye
+🦒	z a r a p a
+🐘	p xe l
+🐵	m a i m l
+🐒	m a i m l
+🦍	m a i m l
+🐕	i t
+🐶	i t
+🐕‍🦺	i t
+🐩	i t
+🐈	m s e h
+🐺	h a s h e r
+🦊	t u l k e
+🦝	a i w
+🐻	a i w
+🦁	a r s t a n
+🐯	j o l b a r e s
+🐅	j o l b a r e s
+🐆	h a b l a n
+🦓	z ye b r a
+🐖	d o ng e z
+🐖	sh o sh h a
+🐗	sh o sh h a
+🐭	t e sh h a n
+🐁	t e sh h a n
+🐀	t e sh h a n
+🐰	h o i a n
+🐇	h o i a n
+🐿	t i e n
+🐼	m e s e h a i w
+🦔	k e r p e
+🦇	j a r gh a n a t
+🦘	k ye n g r w
+🐔	xa t ye sh
+🐓	t a w e h
+🐤	b a l a p a n
+🐣	b a l a p a n
+🐦	h u s
+🕊	k e p t ye r
+🦅	b u r k e t
+🦆	u i r ye k
+🦢	a h h w
+🦉	u k e
+🦜	t o t e
+🦚	t a w s
+🐸	b a h a
+🐉	a i d a hh a r
+🐢	t a s b a h a
+🐊	t e m s a h
+🐍	j e l a n
+🦎	k ye s ye r t k e
+🐟	b a l h
+🐠	b a l h
+🐋	k i t
+🐜	h u m e r s h a
+🐌	u l w
+🐝	a r a
+🦟	m a s a
+🦟	sh e r k ye i
+🕸	t o r
+💐	g u l
+🌷	g u l
+🌹	g u l
+🌼	g u l
+🌸	sh i e g u l
+🌻	k u n b a gh e s
+🌲	h a r a gh a i
+🌱	m a i s a
+🌳	a gh a sh
+🌴	a gh a sh
+🍁	j a p e r a h
+🍂	j a p e r a h
+🍃	j a p e r a h
+🌾	k u r sh
+🌿	sh xo p
+☘	sh xo p
+🍀	sh xo p
+# 地点和时间
+🌏	j e r sh a r
+🗺	h a r i t a
+🧭	k o m p a s
+🏔	t a w
+🌋	j a n a r t a w
+🏔	t a w
+🏝	a r a l
+🏜	sh xo l
+🧱	k e r p sh
+🕌	m e sh e t
+🏨	h o n a h u i
+🌃	t u n
+🚗	m a sh i n a
+🏍	m o t a
+🚢	h a i e h
+✈	u sh a h
+✈	a i r o p l a n
+🚁	t xe k u sh a r
+🚀	r a k a t a
+🛰	j a s a n d e s e r k
+⌚	s a gh a t
+⏰	s a gh a t
+🌞	k u n
+☀	k u n
+🌙	a i
+🌕	a i
+⭐	j u l d e z
+🌟	j u l d e z
+✨	j u l d e z
+☁	b u l t
+💧	t a m sh
+☂	sh a t e r
+🌂	sh a t e r
+☔	sh a t e r
+⛱	sh a t e r
+🔥	o t
+⚡	n a j a gh a i
+🌧	j a ng b e r
+🌈	k e m p e r h o s a h
+🌀	d a w e l
+🌫	t u m a n
+🌪	h u i n
+🌌	h u s j o l e
+❄	h a r
+🌨	h a r
+🌩	j xa i
+# 活动
+🎄	a gh a sh
+🎉	l ye n t a
+🎁	t a r t u
+🎈	sh a r
+🏆	l o ng h a
+🎖	m ye d a l
+🏅	m ye d a l
+🥇	a l t e n
+🥈	k u m e s
+🥉	h o l a
+🏀	d o p
+🏀	b a s k ye t b o l
+⚽	d o p
+⚽	f w t b o l
+🥊	h o l h a p
+🧿	t u m a r
+# 物品
+👓	k u z xa i n ye k
+👞	a i a h
+👟	a i a h
+👢	ye t e k
+🎩	b a s k i e m
+🎓	b a s k i e m
+🧢	b a s k i e m
+🎸	g i t a r a
+📱	h o l f o n
+☎	t e l p o n
+📁	h a l t a
+✏	h a r n d a sh
+🖊	h a l a m
+💰	a h sh a
+💳	k a r t sh k a
+🧾	t a l o n
+📕	k e t a p
+📚	k e t a p
+📖	k e t a p
+🕯	m a i sh a m
+🔦	l ye k t e r
+💡	sh r a h
+💡	l a m p a
+🔨	b a l gh a
+🪓	b a l t a
+🛠	b a l gh a
+🧰	s a n d e h
+🔒	h u l e p
+🔑	k xe l t
+✂	h a i sh e
+📐	s e z gh e sh
+📏	s e z gh e sh
+🗝	k xe l t
+💊	d xa r e
+🛏	t xo s e k
+🚪	ye s e k
+🪑	o r n d e h
+🧷	t u i r ye w e sh
+🚬	t ye m ye k e
+#国旗
+🇨🇳	c n
+🇰🇿	k z
