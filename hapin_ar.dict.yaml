@@ -3,7 +3,7 @@
 
 ---
 name: hapin_ar
-version: "1.0"
+version: "1.1"
 sort: by_weight
 use_preset_vocabulary: false
 import_tables:
@@ -42,8 +42,8 @@ import_tables:
 چ	ch
 ،	,
 ؟	?
-؛ ;
- ٜ	.
+؛	;
+.	.
 ۔	-
 ٴ	x
 ا	xa

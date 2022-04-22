@@ -4,7 +4,7 @@
 schema:
   schema_id: hapin_ar
   name: Hapin Arabic
-  version: "1.0"
+  version: "1.1"
   author:
     - Herbert He <Herbert.He@gmail.com>
   description: |
@@ -41,8 +41,8 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: abcdefghijklmnopqrstuvwzxy?,;-.
-  initials: abcdefghijklmnopqrstuvwzxy
+  alphabet: abcdefghijklmnopqrstuvwzxy,?;-.
+  initials: abcdefghijklmnopqrstuvwzxy,?;-.
   delimiter: " '"
   algebra:
     #  强制转化 xa xe xo xu -> a e o u
