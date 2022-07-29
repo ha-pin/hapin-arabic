@@ -4,7 +4,7 @@
 schema:
   schema_id: hapin_ar
   name: Hapin Arabic
-  version: "1.1"
+  version: "1.2"
   author:
     - Herbert He <Herbert.He@gmail.com>
   description: |
